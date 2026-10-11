@@ -11,6 +11,10 @@
 - **Authentication:** Better Auth email/password registration and sign-in, optional Google/GitHub OAuth, protected product details, profile and sign-out.
 - **Responsive Bangla UI:** Mobile-friendly navigation, scrolling price ticker, loading skeletons, toast notifications and a custom 404 page.
 
+## Live Link
+
+- https://bazardor-a-market-tracker.onrender.com
+
 ## Tech stack
 
 - Next.js App Router
